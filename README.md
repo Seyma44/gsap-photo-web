@@ -14,14 +14,8 @@ https://user-images.githubusercontent.com/3766249/235850026-18269739-9192-4f7a-b
  <code> npm start </code>
 - Open your web browser and navigate to <code> http://localhost:3000</code> to view the website.
 
-# Usage
-Instructions for how to use the project, including any relevant code examples or screenshots.
-
-# Contributing
-Instructions for how to contribute to the project, including guidelines for pull requests and code reviews.
-
 # Credits
-A list of any third-party libraries, frameworks, or resources used in the project, along with links to their documentation.
+A list of any third-party libraries
 
 - GSAP
 - Locomotive Scroll
