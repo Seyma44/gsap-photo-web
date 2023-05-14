@@ -9,9 +9,9 @@ https://user-images.githubusercontent.com/3766249/235850026-18269739-9192-4f7a-b
 # Installation
 - Clone the repository to your local machine.
 - Install dependencies using <br/>
- <code> npm install </code>
+ <code> npm install </code> or  <code> yarn </code>
 - Start the development server using <br/>
- <code> npm start </code>
+ <code> npm start </code> or  <code> yarn start </code>
 - Open your web browser and navigate to <code> http://localhost:3000</code> to view the website.
 
 # Credits
