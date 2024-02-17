@@ -1,46 +1,22 @@
-# Getting Started with Create React App
+# gsap-photo-web
+This website is built using the GSAP animation library, Locomotive Scroll, and ReactJS. It features a smooth scrolling effect using Locomotive Scroll and a variety of GSAP animations to create engaging and visually appealing user interactions.
+The website is designed to be responsive and optimized for a variety of screen sizes and devices. With React, it is easy to create and manage the different components and sections of the website, making it a flexible and maintainable solution for any project.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://user-images.githubusercontent.com/3766249/235850069-93633b99-6609-4620-b578-f55e48d142da.mp4
 
-## Available Scripts
+https://user-images.githubusercontent.com/3766249/235850026-18269739-9192-4f7a-b632-0b409341c60c.mp4
 
-In the project directory, you can run:
+# Installation
+- Clone the repository to your local machine.
+- Install dependencies using <br/>
+ <code> npm install </code> or  <code> yarn </code>
+- Start the development server using <br/>
+ <code> npm start </code> or  <code> yarn start </code>
+- Open your web browser and navigate to <code> http://localhost:3000</code> to view the website.
 
-### `npm start`
+# Credits
+A list of any third-party libraries
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- GSAP
+- Locomotive Scroll
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
